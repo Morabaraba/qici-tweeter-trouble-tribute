@@ -1,0 +1,6 @@
+{
+  "scene": [
+    "Assets/scene/tweeter-trouble"
+  ],
+  "entryScene": "Assets/scene/tweeter-trouble"
+}
